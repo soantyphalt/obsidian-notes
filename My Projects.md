@@ -8,6 +8,24 @@ List of projects I want to work on.
 Use this format to add each project with a link to its corresponding file:
 [Project Template](./path/to/another-project-file)
 
+## Technical (to be merged)
+- Unlock D drive on startup
+- Get firefox on smartphone
+- Learn Tampermonkey
+- Learn Doom Emacs (Advanced Programming Tool & Note Taking)
+- Install Obsidian
+- Write my own device driver (uinput & software mouse)
+- Arch VM
+- Experiment with VM
+- Read "introduction to Containerization" on MEDIUM
+- CLI AI
+- Set limine as default boot
+- Set up yubikey
+- Import extended keyboard layer
+- Remote Access Phone
+- Set up scrcpy for remote phone access
+- OSTEP (Operating Systems Three Easy Pieces)
+
 ## Programming
 - Rainworld Modding
 - Binding of Isaac Dancing Lion Mod

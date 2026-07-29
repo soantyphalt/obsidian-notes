@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ToDo.md",
-                "mode": "preview",
+                "file": "My Projects.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ToDo"
+              "title": "My Projects"
             }
           }
         ],
@@ -209,10 +209,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc8b87de059cca2e",
+  "active": "3dd616af1509d8c4",
   "lastOpenFiles": [
-    "My Projects.md",
     "ToDo.md",
+    "My Projects.md",
     "test/Isaac Newton.md",
     "test/Three laws of motion.md",
     "test/Law of Inertia.md",
