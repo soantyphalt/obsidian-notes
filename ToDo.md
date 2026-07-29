@@ -12,7 +12,7 @@
     - [ ] Flug umbuchen (muss ich umbuchen in erfahrung bringen)
     - [ ] Homestay anmelden
 ## Arzt
-- [ ] Routine Check
+- [x] Routine Check
 - [x] MRI Zeugs
 - [x] Augen Kopfweh
 - [x] Ohren immer zu
