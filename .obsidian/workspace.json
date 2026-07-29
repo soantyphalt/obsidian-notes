@@ -13,30 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test/Three laws of motion.md",
+                "file": "test/Isaac Newton.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Three laws of motion"
+              "title": "Isaac Newton"
             }
           },
           {
-            "id": "fc6f9acb3592eaa7",
+            "id": "94a9847674472356",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test/test.md",
+                "file": "My Projects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "My Projects"
+            }
+          },
+          {
+            "id": "3dd616af1509d8c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ToDo.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ToDo"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ToDo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +133,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for ToDo"
             }
           },
           {
@@ -127,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test/Law of Inertia.md",
+                "file": "ToDo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Law of Inertia"
+              "title": "Outgoing links from ToDo"
             }
           },
           {
@@ -170,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test/Law of Inertia.md",
+                "file": "ToDo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Law of Inertia"
+              "title": "Outline of ToDo"
             }
           },
           {
@@ -208,16 +223,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc8b87de059cca2e",
+  "active": "833ce2e6e41bf714",
   "lastOpenFiles": [
+    "My Projects.md",
+    "ToDo.md",
+    "test/Isaac Newton.md",
     "test/Three laws of motion.md",
+    "test/Law of Inertia.md",
     "test/test.md",
     "Untitled.base",
     "Untitled 3.base",
     "Untitled 2.base",
     "Untitled 1.base",
-    "test/Law of Inertia.md",
-    "test/Isaac Newton.md",
     "test",
     "2026-07-29.md",
     "Welcome.md",
