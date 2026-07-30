@@ -21,6 +21,8 @@ See [[Markdown]] guide for formatting
 - [ ] Rent GPU and train local model
 - [ ] Syncthing / Nextcloud on raspberry + wireguard to sync obsidian vault
 - [ ] Try codemirror shortcuts
+- [ ] [[Remote]] Gaming
+- [ ] Remote
 
 ## Programming
 - [ ] Rainworld Modding
