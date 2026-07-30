@@ -1,13 +1,6 @@
 
-List of projects I want to work on.
-
-[See markdown guide for formatting](https://www.markdownguide.org/cheat-sheet/)
-
+See [[Markdown]] guide for formatting
 # Projects
-
-Use this format to add each project with a link to its corresponding file:
-[Project Template](./path/to/another-project-file)
-
 ## Technical (to be merged)
 - [ ] Unlock D drive on startup
 - [ ] Get firefox on smartphone

@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "My Projects"
             }
-          },
-          {
-            "id": "3dd616af1509d8c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My Projects.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "My Projects"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,10 +194,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3dd616af1509d8c4",
+  "active": "94a9847674472356",
   "lastOpenFiles": [
-    "ToDo.md",
+    "Markdown.md",
     "My Projects.md",
+    "ToDo.md",
     "test/Isaac Newton.md",
     "test/Three laws of motion.md",
     "test/Law of Inertia.md",
