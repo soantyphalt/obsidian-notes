@@ -9,38 +9,41 @@ Use this format to add each project with a link to its corresponding file:
 [Project Template](./path/to/another-project-file)
 
 ## Technical (to be merged)
-- Unlock D drive on startup
-- Get firefox on smartphone
-- Learn Tampermonkey
-- Learn Doom Emacs (Advanced Programming Tool & Note Taking)
-- Install Obsidian
-- Write my own device driver (uinput & software mouse)
-- Arch VM
-- Experiment with VM
-- Read "introduction to Containerization" on MEDIUM
-- CLI AI
-- Set limine as default boot
-- Set up yubikey
-- Import extended keyboard layer
-- Remote Access Phone
-- Set up scrcpy for remote phone access
-- OSTEP (Operating Systems Three Easy Pieces)
+- [ ] Unlock D drive on startup
+- [ ] Get firefox on smartphone
+- [ ] Learn Tampermonkey
+- [ ] Learn Doom Emacs (Advanced Programming Tool & Note Taking)
+- [ ] Install Obsidian
+- [ ] Write my own device driver (uinput & software mouse)
+- [ ] Arch VM
+- [ ] Experiment with VM
+- [ ] Read "introduction to Containerization" on MEDIUM
+- [ ] CLI AI
+- [ ] Set limine as default boot
+- [ ] Set up yubikey
+- [ ] Import extended keyboard layer
+- [ ] Remote Access Phone
+- [ ] Set up scrcpy for remote phone access
+- [ ] OSTEP (Operating Systems Three Easy Pieces)
+- [ ] Rent GPU and train local model
+- [ ] Syncthing / Nextcloud on raspberry + wireguard to sync obsidian vault
+- [ ] Try codemirror shortcuts
 
 ## Programming
-- Rainworld Modding
-- Binding of Isaac Dancing Lion Mod
-- TI Nspire Ndless Jailbreak
-- CodeCrafters (various projects)
-- build-you-own-x
-- From Nand to tetris (finish Part 2)
-- Download Odysseus (self hosted AI from PewDiePie)
-- Render spinning cube in Mnemonimov (Assembly)
-- Bot für Hatch Dragons
-- Draw Widget mit Leti
+- [ ] Rainworld Modding
+- [ ] Binding of Isaac Dancing Lion Mod
+- [ ] TI Nspire Ndless Jailbreak
+- [ ] CodeCrafters (various projects)
+- [ ] build-you-own-x
+- [ ] From Nand to tetris (finish Part 2)
+- [ ] Download Odysseus (self hosted AI from PewDiePie)
+- [ ] Render spinning cube in Mnemonimov (Assembly)
+- [ ] Bot für Hatch Dragons
+- [ ] Draw Widget mit Leti
 
 ## Electronics
-- E-Bike
-- Morse Armband mit Leti
+- [ ] E-Bike
+- [ ] Morse Armband mit Leti
 
 ## CAD
 - Fan attachement for Motor
