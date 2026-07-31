@@ -9,7 +9,7 @@ See [[Markdown]] guide for formatting
 - [ ] Install Obsidian
 - [ ] Write my own device driver (uinput & software mouse)
 - [ ] Arch VM
-- [ ] Experiment with VM
+- [ ] Experiment with VMan
 - [ ] Read "introduction to Containerization" on MEDIUM
 - [ ] CLI AI
 - [ ] Set limine as default boot

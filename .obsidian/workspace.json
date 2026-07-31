@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Projects.md",
+                "file": "Wanna Buy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "My Projects"
+              "title": "Wanna Buy"
             }
           }
         ]
@@ -196,8 +196,9 @@
   },
   "active": "07075f9035ad25d3",
   "lastOpenFiles": [
-    "().md",
     "My Projects.md",
+    "Wanna Buy.md",
+    "().md",
     "path/to",
     "path",
     "Untitled/GPU.md",
