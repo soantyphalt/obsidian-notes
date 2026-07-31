@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books.md",
+                "file": "MEDIUM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Books"
+              "title": "MEDIUM"
             }
           },
           {
@@ -225,8 +225,8 @@
   },
   "active": "0777d838834cbdf7",
   "lastOpenFiles": [
-    "Wanna Buy.md",
     "Books.md",
+    "Wanna Buy.md",
     "My Projects.md",
     "MEDIUM.md",
     "().md",
