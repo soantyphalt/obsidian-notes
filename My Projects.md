@@ -6,11 +6,10 @@ See [[Markdown]] guide for formatting
 - [ ] Get firefox on smartphone
 - [ ] Learn Tampermonkey
 - [ ] Learn Doom Emacs (Advanced Programming Tool & Note Taking)
-- [ ] Install Obsidian
+- [x] Install Obsidian
 - [ ] Write my own device driver (uinput & software mouse)
 - [ ] Arch VM
-- [ ] Experiment with VMan
-- [ ] Read "introduction to Containerization" on MEDIUM
+- [ ] Experiment with VM
 - [ ] CLI AI
 - [ ] Set limine as default boot
 - [ ] Set up yubikey
@@ -23,6 +22,9 @@ See [[Markdown]] guide for formatting
 - [ ] Try codemirror shortcuts
 - [ ] [[Remote]] Gaming
 - [ ] Remote
+- [ ] Nvitop
+- [ ] Why are there daemons on my Computer [[MEDIUM]]
+- [ ] Read "introduction to Containerization" on MEDIUM
 
 ## Programming
 - [ ] Rainworld Modding
