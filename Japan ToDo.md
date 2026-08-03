@@ -1,0 +1,3 @@
+- [ ] Homestay Flywire zahlen
+- [ ] Flug umbuchen (3. September CX382, 4. September CX504)
+- [ ] [[Reiseversicherung]]

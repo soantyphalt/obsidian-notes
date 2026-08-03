@@ -1,0 +1,3 @@
+Btw FYI - the flight plan & travel insurance have to be submitted via the form 3 weeks prior to your arrival, not just 3 weeks prior to the program start. This info is written in the form itself, once you click the link - The before arrival guide only mentions 3 weeks prior to progran start 🙏
+
+So if you plan on arriving on the 28.08, the submission deadline would be 06.08 (depending on your timezone, Japan is one day ahead).
