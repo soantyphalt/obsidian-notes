@@ -25,6 +25,7 @@ See [[Markdown]] guide for formatting
 - [ ] Nvitop
 - [ ] Why are there daemons on my Computer [[MEDIUM]]
 - [ ] Read "introduction to Containerization" on MEDIUM
+- [ ] 
 
 ## Programming
 - [ ] Rainworld Modding
@@ -41,6 +42,7 @@ See [[Markdown]] guide for formatting
 ## Electronics
 - [ ] E-Bike
 - [ ] Morse Armband mit Leti
+- [ ] Remote Wall Socket
 
 ## CAD
 - Fan attachement for Motor
