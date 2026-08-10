@@ -13,18 +13,15 @@ See [[Markdown]] guide for formatting
 - [ ] CLI AI
 - [ ] Set limine as default boot
 - [ ] Set up yubikey
-- [ ] Import extended keyboard layer
+- [x] Import extended keyboard layer
+	- [ ] Run kanata in background
 - [ ] Remote Access Phone
-- [ ] Set up scrcpy for remote phone access
-- [ ] OSTEP (Operating Systems Three Easy Pieces)
+	- [ ] Set up scrcpy for remote phone access
 - [ ] Rent GPU and train local model
 - [ ] Syncthing / Nextcloud on raspberry + wireguard to sync obsidian vault
 - [ ] Try codemirror shortcuts
 - [ ] [[Remote]] Gaming
-- [ ] Remote
-- [ ] Nvitop
-- [ ] Why are there daemons on my Computer [[MEDIUM]]
-- [ ] Read "introduction to Containerization" on MEDIUM
+- [ ] Nvitop real time monitoring of Graphics card
 - [ ] 
 
 ## Programming
