@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Minecraft Mods.md",
+                "file": "Books.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Minecraft Mods"
+              "title": "Books"
             }
           }
         ],
@@ -241,8 +241,8 @@
   },
   "active": "63da87fd6a1a3b85",
   "lastOpenFiles": [
-    "Assets.md",
     "Minecraft Mods.md",
+    "Assets.md",
     "Wanna Buy.md",
     "Books.md",
     "My Projects.md",
