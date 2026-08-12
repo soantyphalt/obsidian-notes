@@ -1,3 +1,6 @@
 - [ ] Homestay Flywire zahlen
 - [ ] Flug umbuchen (3. September CX382, 4. September CX504)
 - [ ] [[Reiseversicherung]]
+- [x] Health Certifikate schicken
+- [x] Flight Schedule schicken
+- [x] Versicherung schicken

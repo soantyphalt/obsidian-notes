@@ -69,16 +69,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bandit Wargame.md",
+                "file": "Japan ToDo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bandit Wargame"
+              "title": "Japan ToDo"
+            }
+          },
+          {
+            "id": "a3e1b491e6f9d5d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Japan ToDo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Japan ToDo"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -253,17 +267,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e004f62b374762a",
+  "active": "a3e1b491e6f9d5d1",
   "lastOpenFiles": [
-    "My Projects.md",
+    "Japan Packliste.md",
+    "Japan ToDo.md",
     "Bandit Wargame.md",
+    "My Projects.md",
     "Books.md",
     "Minecraft Mods.md",
     "Assets.md",
     "Wanna Buy.md",
     "Untitled/ToDo.md",
     "MEDIUM.md",
-    "Japan ToDo.md",
     "Untitled/GPU.md",
     "Reiseversicherung.md",
     "().md",
