@@ -22,7 +22,7 @@ See [[Markdown]] guide for formatting
 - [ ] Try codemirror shortcuts
 - [ ] [[Remote]] Gaming
 - [ ] Nvitop real time monitoring of Graphics card
-- [ ] 
+- [ ] Minecraft Server with [Pterodactyl Eggs](https://eggs.pterodactyl.io/) (GUI)
 
 ## Programming
 - [ ] Rainworld Modding
