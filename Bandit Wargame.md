@@ -22,13 +22,4 @@ Level:
 21: bW9kBv5WC3P4yoDyf12LSdGuNz5ka6hY
 22: RYVux2rHEm9tiXHmLFzuR7Vhx6AZQMEz
 23: gKXDTAXnIz3OBxiPjRZ2uqutUlPZrBsw
-#!/bin/bash  
-echo "Hello it is $(whoami)"    
-mypath=$(mktemp -d)  
-echo $mypath  
-  
-echo 'cat /etc/bandit_pass/bandit24' > $mypath/newscript.sh  
-chmod a+rx $mypath/newscript.sh  
-$mypath/newscript.sh
-
-echo "Hello it is $(whoami)" 1>1 2>2
+24: hVQMk3lJNsmQ7VF3ubyrNNBom7BOgVXv (cat "/etc/bandit_pass/bandit24" | ncat -l localhost 30004)
