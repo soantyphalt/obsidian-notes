@@ -26,9 +26,11 @@ See [[Markdown]] guide for formatting
 - [ ] wikiman to install arch wiki locally
 
 ## Efficient Computering
+learn US keyboard layout
 Vim
 tmux (terminal multiplexer)
-
+rofi (keyboard driven application launching)
+Window Manager (i3, Sway, Hyperland, tiling WM)
 
 ## Programming
 - [ ] Rainworld Modding
