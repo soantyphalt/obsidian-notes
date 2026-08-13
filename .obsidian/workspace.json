@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bandit Wargame.md",
+                "file": "My Projects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bandit Wargame"
+              "title": "My Projects"
             }
           }
         ],
@@ -269,9 +269,9 @@
   },
   "active": "a3e1b491e6f9d5d1",
   "lastOpenFiles": [
+    "Bandit Wargame.md",
     "Japan ToDo.md",
     "Japan Packliste.md",
-    "Bandit Wargame.md",
     "My Projects.md",
     "Books.md",
     "Minecraft Mods.md",

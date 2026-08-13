@@ -23,6 +23,7 @@ See [[Markdown]] guide for formatting
 - [ ] [[Remote]] Gaming
 - [ ] Nvitop real time monitoring of Graphics card
 - [ ] Minecraft Server with [Pterodactyl Eggs](https://eggs.pterodactyl.io/) (GUI)
+- [ ] wikiman to install arch wiki locally
 
 ## Programming
 - [ ] Rainworld Modding
