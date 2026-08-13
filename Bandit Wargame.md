@@ -30,3 +30,5 @@ echo $mypath
 echo 'cat /etc/bandit_pass/bandit24' > $mypath/newscript.sh  
 chmod a+rx $mypath/newscript.sh  
 $mypath/newscript.sh
+
+echo "Hello it is $(whoami)" 1>1 2>2
