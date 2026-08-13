@@ -25,6 +25,11 @@ See [[Markdown]] guide for formatting
 - [ ] Minecraft Server with [Pterodactyl Eggs](https://eggs.pterodactyl.io/) (GUI)
 - [ ] wikiman to install arch wiki locally
 
+## Efficient Computering
+Vim
+tmux (terminal multiplexer)
+
+
 ## Programming
 - [ ] Rainworld Modding
 - [ ] Binding of Isaac Dancing Lion Mod
