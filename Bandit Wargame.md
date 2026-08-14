@@ -15,7 +15,7 @@ Level:
 14: aaWecNkG4FhxJQxz07uiwzVP6bJiYS65
 15: pbLYuZtTg4MgaqfJx8jbA9gKKGqM68A7
 16: kS0Hf0u5HiXFwKMKFqXvPdOTNGGa0X8V
-17: ssh key
+17: pWXMAZoxGC8JmDMfmT5MGEsobMM3vnj2 (also ssh key)
 18: OQxXZjELndr90zuhOTDYBEomI0SZITXI
 19: KpsOfPkcP7i1FlIExk2QEjyt6dw8dxZI
 20: 4pIjcunZ0fK2vmp3IwfG8Vf7VhxD6pOA
@@ -24,5 +24,4 @@ Level:
 23: gKXDTAXnIz3OBxiPjRZ2uqutUlPZrBsw
 24: hVQMk3lJNsmQ7VF3ubyrNNBom7BOgVXv (cat "/etc/bandit_pass/bandit24" | ncat -l localhost 30004)
 25: SoHfqMOEqIX2IYKVciZxvgpR9a2Djx4P
-26: (change env variable, make alias, make startup file, hang up more) !!! never touch again vim proficiency required
 26: jHdv2ELQhT22BkprMNDjybZDAkw1zeBJ
