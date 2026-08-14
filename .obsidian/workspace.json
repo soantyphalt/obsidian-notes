@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Projects.md",
+                "file": "Wanna Buy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "My Projects"
+              "title": "Wanna Buy"
             }
           }
         ],
@@ -283,12 +283,12 @@
   },
   "active": "ce519e545dbc3595",
   "lastOpenFiles": [
+    "My Projects.md",
     "Bandit Wargame.md",
     "test.md",
     "Wanna Buy.md",
     "Minecraft Mods.md",
     "Reiseversicherung.md",
-    "My Projects.md",
     "Japan ToDo.md",
     "Japan Packliste.md",
     "Books.md",

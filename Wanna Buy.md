@@ -3,3 +3,10 @@
 - [ ] Compression Sleeves
 - [ ] [Framework Laptop](https://frame.work/ch/en/laptop16?tab=gaming)
 - [ ] Heizkissen für Leti
+- [ ] Mechanical Keyboard
+	- qmk + via setup
+	- 75% / 100% Layout
+	- Multi-device bluetooth
+	- Durability
+	- Hot-swap switches
+	- Protective case
