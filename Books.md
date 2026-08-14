@@ -4,6 +4,10 @@
 - [ ] The Linux Programming Interface
 - [ ] [Games Programming Patterns](https://gameprogrammingpatterns.com/)
 - [ ] [The Jargon File](http://www.catb.org/jargon/html/index.html)
+### Vim
+- Vim - Vi Improved - by Steve Oualline
+- [Learn Vim the hard Way](https://learnvimscriptthehardway.stevelosh.com/)
+
 
 Lots of good books: https://github.com/Raunaksplanet/My-CyberSecurity-Store/tree/main
 
