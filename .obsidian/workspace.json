@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bandit Wargame.md",
+                "file": "Kanata config.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bandit Wargame"
+              "title": "Kanata config"
             }
           }
         ],
@@ -311,12 +311,12 @@
   },
   "active": "a8f03f40a026d1ce",
   "lastOpenFiles": [
+    "Books.md",
+    "Bandit Wargame.md",
     "Untitled.md",
     "test.md",
-    "Bandit Wargame.md",
     "Kanata config.md",
     "Japan ToDo.md",
-    "Books.md",
     "Wanna Buy.md",
     "My Projects.md",
     "Minecraft Mods.md",
